@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey there, I'm Saral!</h1>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning <b>JavaScript.</b>
 
 - 👨‍💻 My Portfolio [saralb.com.np](https://saralb.com.np)
 
