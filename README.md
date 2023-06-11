@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
 - 🌱 I’m currently learning <b>JavaScript.</b>
 
-- 👨‍💻 My Portfolio [saralb.com.np](https://saralb.com.np)
+<!-- - 👨‍💻 My Portfolio [saralb.com.np](https://saralb.com.np) -->
 
 - 📫 How to reach me **saralbjr@gmail.com**
 
