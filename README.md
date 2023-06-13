@@ -1,9 +1,9 @@
 
 <h1 align="center">Hey there, I'm Saral!</h1>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
-- 🌱 I’m currently learning <b>JavaScript.</b>
-- 👩‍💻 I'm currently working on <b>DrinkMandu.<b>,<br>
-  A website for my college project
+- 🌱 I’m currently learning <b>JavaScript.</b> <br>
+- 👩‍💻 I'm currently working on <b>DrinkMandu<b>, A simple e-commerce website for my college project.
+       
 
 <!-- - 👨‍💻 My Portfolio [saralb.com.np](https://saralb.com.np) -->
 
