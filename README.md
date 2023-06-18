@@ -1,8 +1,9 @@
 
 <h1 align="center">Hey there, I'm Saral!</h1>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
-- 🌱 I’m currently learning <b>JavaScript.</b> <br>
-- 👩‍💻 I'm currently working on <b>DrinkMandu<b>, A simple e-commerce website for my college project.
+- 🌱 I’m currently learning <b>MERN.</b> <br>
+- 👩‍💻 I'm currently working on <b>DrinkMandu</b>, <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A simple e-commerce 
+       website for my college project.
        
 
 <!-- - 👨‍💻 My Portfolio [saralb.com.np](https://saralb.com.np) -->
@@ -15,7 +16,31 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+</a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+       <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+              <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+                     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+                            </p>
+                            <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="MongoDB" width="40" height="40">
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express" width="40" height="40">
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp" alt="React" width="40" height="40">
+</a>
+<a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" width="40" height="40">
+</a>
 
 
 
