@@ -4,8 +4,8 @@
 
 
 - 🌱 I’m currently learning Javascript.
-- 👩‍💻 I'm currently working on <b>DrinkMandu</b>, <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A simple e-commerce 
-       website for my college project.
+- 👩‍💻 I'm currently working on <b>DrinkMandu</b>, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A simple e-commerce 
+       website for my<br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;college project.
 
 
 <h3 align="left"><img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> Connect with me :</h3>
