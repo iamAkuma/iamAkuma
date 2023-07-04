@@ -4,13 +4,15 @@
 
 
 - 🌱 I’m currently learning Javascript.
-- 👩‍💻 I'm currently working on <b>DrinkMandu</b>, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A simple e-commerce 
-       website for my<br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;college project.
+- 👩‍💻 I'm currently working on <b>DrinkMandu</b>, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (A simple e-commerce 
+       website for my<br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;college project.)
 
 
 <h3 align="left"><img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> Connect with me :</h3>
 <div align="left">
   <a href="https://www.instagram.com/akuma_saral"target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+       <br/>
+       <a href="https://www.linkedin.com/in/saralbjr/"target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
        <br/>
   <a href="mailto:saralbjr@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  </div>
