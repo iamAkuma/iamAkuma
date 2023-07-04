@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning Javascript.
-- 👩‍💻 I'm currently working on <b>DrinkMandu</b>, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (A simple e-commerce 
+- 👩‍💻 I'm currently working on <b>DrinkMandu.</b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (A simple e-commerce 
        website for my<br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;college project.)
 
 
