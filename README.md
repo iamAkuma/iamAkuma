@@ -1,11 +1,15 @@
-<h1 align="center">Hey there, I'm Saral </h1>
+<h1 align="center">Hey there, I'm Saral! </h1>
 <h3 align="center">An Aspiring Developer</h3>
 
 <img align='right' src='https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif'>
 
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning MERN.
+- 👩‍💻 Checkout my portfolio at <a href="https://saralb.com.np">saralb.com.np</a>
+<!-- 
 - 👩‍💻 I'm currently working on <b>DrinkMandu.</b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (A simple e-commerce 
        website for my<br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;college project.)
+-->
+
 
  
   
