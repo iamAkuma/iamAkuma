@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Saral! </h1>
 <h3 align="center">An Aspiring Developer</h3>
 
-<img align='right' src='https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif'>
+<img align='right' style='width: 50%;' src='https://thumbs.gfycat.com/NiftyWeirdHammerheadshark-size_restricted.gif'>
 
 - 🌱 I’m currently learning MERN.
 - 👩‍💻 Checkout my portfolio at <a href="https://saralb.com.np">saralb.com.np</a>
