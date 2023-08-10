@@ -6,9 +6,6 @@
 - 🌱 I’m currently learning MERN.
 - 👩‍💻 Checkout my portfolio at <a href="https://saralb.com.np">saralb.com.np</a>
   
-- 👩‍💻 I'm currently watching tutorials, <br>
-       &nbsp;&nbsp;&nbsp;&nbsp;learning from them and then 
-       try to implement them in my own projects.
 
 
 
