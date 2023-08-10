@@ -49,5 +49,5 @@
 
 
 <div align="center">
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iamAkuma&theme=dark" alt="iamAkuma" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamAkuma&theme=dark" alt="iamAkuma" /></p>
   </div>
