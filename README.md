@@ -3,7 +3,7 @@
 
 <img align='right' style='width: 200%;' src='https://media.tenor.com/jCk8c5_Q4J0AAAAM/hacker.gif'>
 
-- 🌱 I’m currently learning C#, learning in advance for the next semester's course.
+- 🌱 I’m currently learning C#.
 - 👩‍💻 Checkout my portfolio at <a href="https://saralb.com.np">saralb.com.np</a>
 <h3 align="left"><img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> Connect with me :</h3>
 <div align="left">
