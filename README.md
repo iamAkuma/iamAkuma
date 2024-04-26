@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Saral! </h1>
+<h1 align="center">Hey there 👋, I'm Saral! </h1>
 
 <img align='right' style='width: 200%;' src='https://media.tenor.com/jCk8c5_Q4J0AAAAM/hacker.gif'>
 
