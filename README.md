@@ -2,7 +2,7 @@
 
 <img align='right' style='width: 200%;' src='https://media.tenor.com/jCk8c5_Q4J0AAAAM/hacker.gif'>
 
-- 🌱 I’m currently learning JDBC.
+- 🌱 I’m currently learning Advanced JAVA.
 - 👩‍💻 Checkout my portfolio at <a href="https://saralb.com.np" target="_blank" rel="noopener noreferrer">https://saralb.com.np</a>
 <h3 align="left">Connect with me :</h3>
 <div align="left">
